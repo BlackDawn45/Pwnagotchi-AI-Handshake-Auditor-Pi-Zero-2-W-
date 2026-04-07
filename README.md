@@ -45,4 +45,9 @@ Problem Solving : Recherche de solutions dans la documentation technique et sur 
 
 ![pwnagotchi](https://github.com/user-attachments/assets/e7e51cf3-a525-448c-a92b-c0895935df68)
 
+![pwnagotchi2](https://github.com/user-attachments/assets/20da34d0-e80d-4640-9984-b6d543069be3)
+
+![pwnagotchi3](https://github.com/user-attachments/assets/5b2fc523-21dd-4b6a-9a6b-5d7bfdc100c4)
+
+
 

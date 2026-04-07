@@ -1,0 +1,30 @@
+# Nom de ton compagnon
+main.name = "pwnagotchi"
+main.lang = "fr"
+
+# Réseaux à ne pas attaquer (ta box)
+main.whitelist = [
+  "YOUR_NETWORK",
+  "ANOTHER_EXAMPLE_NETWORK"
+]
+
+# Configuration de l'écran (Correction fond blanc)
+ui.display.enabled = true
+ui.display.type = "waveshare_3"
+ui.display.color = "black"
+ui.invert = false
+
+# Interface Web (Accès via http://pwnagotchi.local:8080)
+ui.web.enabled = true
+ui.web.username = "admin"
+ui.web.password = "ton_mot_de_passe"
+
+# Connexion à la Grid (Partage des stats)
+main.plugins.grid.enabled = true
+main.plugins.grid.report = true
+main.plugins.grid.exclude = [ "YOUR_NETWORK" ]
+
+# Plugins pour la température et l'expérience
+main.plugins.memtemp.enabled = true
+main.plugins.memtemp.scale = "celsius"
+main.plugins.exp.enabled = true
